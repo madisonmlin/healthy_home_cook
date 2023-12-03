@@ -1,0 +1,20 @@
+
+
+.nutrient-button{
+    background: #A7D489;
+    border-width: 2px;
+    border: "none";
+    padding: 16px 0;
+    border-radius: 8px;
+    width: 100%;
+    font-family: 'georgia'; 
+    font-size: 24px;
+    border: none;
+    color: rgb(0, 0, 0);
+}
+
+.button-clicked {
+    background: #A7D489;
+    filter: brightness(0.75);
+    color: grey;
+  }

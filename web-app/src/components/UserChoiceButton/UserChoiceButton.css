@@ -1,0 +1,14 @@
+
+.user-choice-button{
+    position: static;
+    left: 650px;
+    top: 0px;
+    background: rgb(216, 236, 185);
+    border-width: 2px;
+    border: "none";
+    height: 75px;
+    border-radius: 20%;
+    width: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
